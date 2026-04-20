@@ -1,4 +1,4 @@
-package Lab02;
+package Lab_02;
 import java.util.*;
 public class practice {
     public static void main (String[]args){

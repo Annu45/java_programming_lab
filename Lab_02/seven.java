@@ -1,4 +1,4 @@
-package Lab02;
+package Lab_02;
 import java.util.Scanner;
 
 class Seven {
